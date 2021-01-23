@@ -1,0 +1,9 @@
+A1::Hershey's Chocolate Bar::2.00::0
+B2::Water::1.00::8
+C3::Cola::1.00::8
+A2::Doritos Chips::1.25::7
+B3::Sparkling Water::1.50::10
+A3::Pretzels::0.75::10
+C1::Grape Soda::1.00::9
+B1::Lemonade::1.25::6
+C2::Orange Soda::1.00::9
